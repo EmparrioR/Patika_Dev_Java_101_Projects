@@ -1,1 +1,1 @@
-Patika.dev - Java101 Projeleri
+Patika.dev - Java 101 Eğitimi Kapsamında Yapmış Olduğum Kodlama Ödevleri
